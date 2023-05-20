@@ -13,10 +13,6 @@
 
 - ***Characters ➜ Blizzabelle, Krisabelle, Arctic Adeline, Tectonic Komplex, Ruby Shadows & Some Others***
 
-## Authors
-
-- [@Verze](https://github.com/VerzeHxD)
-
 ## Credits
 
 - ***All Credits To Every Single Hex Code Goes To: Verze#6969, Unless Said Different In A Hex Code.***
@@ -40,3 +36,7 @@
 
 - [A Link With All My Socials](https://feds.lol/verze)
 - [My Discord Server](https://discord.gg/HxD)
+
+## Authors
+
+- [@Verze](https://github.com/VerzeHxD)
