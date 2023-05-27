@@ -1,5 +1,5 @@
 # Fortnite-Hex-Codes
-***This Is A Repository Made For My Hex Code's I Make For Fortnite Swapping.***
+***This Is A Repository Made For My Hex Code's I Make For Fortnite Cosmetic Swapping.***
 
 
 
